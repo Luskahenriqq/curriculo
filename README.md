@@ -1,2 +1,0 @@
-# curriculo
-Habilidades de programação

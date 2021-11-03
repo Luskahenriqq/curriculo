@@ -7,6 +7,9 @@ body{
 ::selection{
   color: #FFDFD3;
 }
+
+/* CABEÇALHO */
+
 #cabecalho{
   height: 100%;
   width: 100%;
